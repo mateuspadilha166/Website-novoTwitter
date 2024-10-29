@@ -1,0 +1,48 @@
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #e1e8ed;
+    border-radius: 20px;
+}
+
+.stories-bar {
+    display: flex;
+    gap: 15px;
+    overflow-x: auto;
+}
+
+.story-image {
+    width: 80px; 
+    height: 80px; 
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #1DA1F2;
+}
+
+
+.story-name {
+    margin-top: 5px;
+    font-size: 12px;
+    color: #657786;
+    text-align: center;
+    white-space: nowrap;
+    display: flex;
+}
+
+.post-button {
+    background-color: #1DA1F2;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 8px 16px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.post-button:hover {
+    background-color: #0d8dc3;
+}

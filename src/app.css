@@ -1,0 +1,13 @@
+/* fundo preto */
+body, html, #root {
+    background-color: #000; 
+    color: #fff; 
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+.App {
+    min-height: 100vh;
+    padding: 20px;
+}

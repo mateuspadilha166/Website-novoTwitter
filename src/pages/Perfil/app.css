@@ -1,0 +1,61 @@
+.perfil-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.perfil-title {
+    font-size: 24px;
+    color: #1DA1F2;
+    margin-bottom: 20px;
+}
+
+.perfil-images {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.image-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #e1e8ed;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #f5f8fa;
+}
+
+.perfil-image {
+    width: 250px; 
+    height: 250px; 
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.likes {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.like-button {
+    background-color: #1DA1F2;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.like-button:hover {
+    background-color: #0d8dc3;
+}
