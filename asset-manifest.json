@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Website-novoTwitter/static/css/main.76b71565.css",
+    "main.js": "/Website-novoTwitter/static/js/main.7849c755.js",
+    "static/media/lullychan.jpg": "/Website-novoTwitter/static/media/lullychan.1f3c6adbb8a05544936c.jpg",
+    "static/media/Mídia.jpg": "/Website-novoTwitter/static/media/Mídia.36b63367f12a5cbf7dbc.jpg",
+    "static/media/speak.jpg": "/Website-novoTwitter/static/media/speak.75aeb3ee4570f462d998.jpg",
+    "static/media/speak3.jpg": "/Website-novoTwitter/static/media/speak3.ec9e63120b56c10cd1d6.jpg",
+    "index.html": "/Website-novoTwitter/index.html",
+    "main.76b71565.css.map": "/Website-novoTwitter/static/css/main.76b71565.css.map",
+    "main.7849c755.js.map": "/Website-novoTwitter/static/js/main.7849c755.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76b71565.css",
+    "static/js/main.7849c755.js"
+  ]
+}
