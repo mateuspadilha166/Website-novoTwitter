@@ -1,7 +1,14 @@
 import React from 'react';
 import RoutesApp from './router';
 import './app.css'
-function App() {
+
+
+const MeuComponente = () => {
+  useEffect(() => {
+    document.title = "Título Dinâmico";
+  }, []);
+}
+  function App() {
     return (
         <div className="App">
             <RoutesApp />
